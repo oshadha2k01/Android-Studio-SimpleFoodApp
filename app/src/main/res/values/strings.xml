@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FoodOrderApp2</string>
+    <string name="text_1">DeliDash</string>
+    <string name="text_2">Get Started</string>
+    <string name="text_3">Welcome to the DeliDash!</string>
+    <string name="text_4">Login</string>
+    <string name="us_name">Username</string>
+    <string name="pass">Password</string>
+    <string name="lo_n">Login</string>
+    <string name="text5">Hello Food Seekers!</string>
+    <string name="text_6">Food Home</string>
+    <string name="chicken">Chicken Burger</string>
+    <string name="pizza">BBQ PIZZA</string>
+    <string name="price">Price: Rs.600/=</string>
+    <string name="bu1">View</string>
+    <string name="bu2">View</string>
+    <string name="bu3">View</string>
+    <string name="text_c">Chicken Bucket</string>
+    <string name="pr2">Price: Rs.1200/=</string>
+    <string name="p3">Price: Rs.1500/=</string>
+    <string name="button">Buy</string>
+    <string name="cart">Add Cart</string>
+</resources>
